@@ -3,7 +3,7 @@ Welcome to my GitHub! I'm a passionate software developer exploring the vast wor
 
 [![LynnBitok6391 GitHub stats](https://github-readme-stats.vercel.app/api?username=LynnBitok6391)](https://github.com/LynnBitok6391/github-readme-stats)
 # 💫 About Me:
-💻 Aspiring Java Developer | 🎯 Tech Explorer | 🚀 Lifelong Learner<br>🌱 Currently Learning: Java, software development principles, and best coding practices.<br>🔭 Working On: Personal projects, open-source contributions, and hands-on coding challenges.<br>🤝 Open to Collaborate: Always happy to work on exciting development projects.<br>🎯 Goal: To master full-stack development and build powerful, scalable applications.<br>
+💻 Aspiring Java Developer | 🎯 Tech Explorer | 🚀 Lifelong Learner<br>🌱 Currently Learning:Java,Javascript, Springboot and ReactJs.<br>🔭 Working On: Personal projects, open-source contributions, and hands-on coding challenges.<br>🤝 Open to Collaborate: Always happy to work on exciting development projects.<br>🎯 Goal: To master full-stack development and build powerful, scalable applications.<br>
 
 
 ## 🌐 Socials:
