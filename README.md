@@ -2,7 +2,7 @@
 I'm a passionate software developer exploring the vast world of coding. Whether it's backend development, frontend magic, or problem-solving, I'm always excited to build, break, and innovate! 💡✨
 
 # 💫 About Me:
-Aspiring Java Developer | 🎯 Tech Explorer | 🚀 Lifelong Learner<br>🌱 Currently Learning:Java,Javascript, Springboot and ReactJs.<br>🔭 Working On: Personal projects, open-source contributions, and hands-on coding challenges.<br>🤝 Open to Collaborate: Always happy to work on exciting development projects.<br>🎯 Goal: To master full-stack development and build powerful, scalable applications.
+Aspiring Java Developer | 🎯 Tech Explorer | 🚀 Lifelong Learner<br>🌱 Currently Learning:Java,Javascript, Springboot and ReactJs.<br>🔭 Working On: Personal projects, open-source contributions, and hands-on coding challenges.<br>🤝 Open to Collaborate: Always happy to work on exciting development projects.<br>🎯 Goal: To master full-stack development and build powerful, scalable applications.<br> View my portfolio at https://lynnbitok.netlify.app/
 
 
 ## 🌐 Socials:
